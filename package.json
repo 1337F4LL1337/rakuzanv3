@@ -9,7 +9,7 @@
   "author": "Sentox#2002",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "discord.js": "^11.6.0",
     "figlet": "^1.4.0",
     "selfbot.js": "^11.5.4"
